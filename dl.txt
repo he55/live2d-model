@@ -16,4 +16,5 @@ https://www.live2d.com/wp/wp-content/themes/cubism/res/Hiyori/motions/Hiyori_m09
 https://www.live2d.com/wp/wp-content/themes/cubism/res/Hiyori/motions/Hiyori_m08.motion3.json
 https://www.live2d.com/wp/wp-content/themes/cubism/res/Hiyori/motions/Hiyori_m06.motion3.json
 https://www.live2d.com/wp/wp-content/themes/cubism/res/Hiyori/motions/Hiyori_m03.motion3.json
+https://www.live2d.com/wp/wp-content/themes/cubism/res/Hiyori/motions/Hiyori_m04.motion3.json
 https://www.live2d.com/wp/wp-content/themes/cubism/res/Hiyori/motions/Hiyori_m02.motion3.json
